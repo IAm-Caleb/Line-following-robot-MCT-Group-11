@@ -15,7 +15,9 @@ This L298N motor driver is a high-power motor driver module. It is used for driv
 
 **4. Wheels**
 
-**5. Jumper cables**
+**5. Jumper cables**      
+
+**6. DC Motors**
 
 # **Softwares Used to build the Line Follower Robot** 
 **1. Proteus**           
