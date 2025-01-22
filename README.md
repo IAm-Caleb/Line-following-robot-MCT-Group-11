@@ -21,9 +21,13 @@ This L298N motor driver is a high-power motor driver module. It is used for driv
 
 **4. Wheels**
 
+![image alt](https://github.com/IAm-Caleb/Line-following-robot-MCT-Group-11/blob/6fb8854c50f8e8d9bec83f70c2b44c932d3d4036/wheels.jpg)
+
 **5. Jumper cables**      
 
 **6. DC Motors**
+
+![image alt](https://github.com/IAm-Caleb/Line-following-robot-MCT-Group-11/blob/6fb8854c50f8e8d9bec83f70c2b44c932d3d4036/motor.png)
 
 # **Softwares Used to build the Line Follower Robot** 
 **1. Proteus**           
@@ -50,5 +54,5 @@ Line-following robots are helpful for guidance applications, such as in museums 
 
 
 
-**Conclusion**
+**Conclusion**                  
 In conclusion, line-following robots are increasingly becoming helpful in various applications, such as industrial automation, automobiles, domestic applications, and guidance applications. They use sensors to detect the line, and the robot’s speed and direction are modified accordingly. Additionally, line-following robots help automate repetitive tasks, provide guidance, and detect potentially hazardous situations. With their increasing popularity, the applications of line-following robots are expected to increase.
